@@ -1,0 +1,26 @@
+body{
+    background-color: #e6f0e4;
+}
+
+h1{
+    color: #590ee6;
+     
+}
+h3{
+    color: #652cce
+}
+hr{
+    border-style: none;
+    border-color: #db6666;
+    border-width:5px ;
+    border-top-style: dotted;
+    width: 5%;
+}
+/* img{
+    background-color: #3e3d41;
+    height: 50%;
+    width: 40%;
+} */
+.pikachu{
+background-color: #590ee6;
+}
